@@ -1,1 +1,1 @@
-# leagify.gihtub.io
+# leagify.github.io
